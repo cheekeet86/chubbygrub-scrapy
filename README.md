@@ -1,1 +1,1 @@
-# chubbygrub-scrapy-temp-
+# chubbygrub-scrapy
